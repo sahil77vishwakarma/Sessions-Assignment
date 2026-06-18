@@ -1,0 +1,237 @@
+{
+  "exercise": "Bench Press (Competition)",
+  "sessions": [
+    {
+      "id": "s-2024-05-02",
+      "date": "2024-05-02T18:42:00Z",
+      "tags": ["Competition", "Paused"],
+      "sets": [
+        {
+          "id": "set-1",
+          "weight": { "value": 60.0, "unit": "kilogram" },
+          "repCount": 5,
+          "setType": "Warmup",
+          "rpe": "6",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.71 },
+            { "meanConcentricVelocity": 0.69 },
+            { "meanConcentricVelocity": 0.68 },
+            { "meanConcentricVelocity": 0.66 },
+            { "meanConcentricVelocity": 0.64 }
+          ]
+        },
+        {
+          "id": "set-2",
+          "weight": { "value": 100.0, "unit": "kilogram" },
+          "repCount": 3,
+          "setType": "Working",
+          "rpe": "8",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.42 },
+            { "meanConcentricVelocity": 0.39 },
+            { "meanConcentricVelocity": 0.35 }
+          ]
+        },
+        {
+          "id": "set-3",
+          "weight": { "value": 100.0, "unit": "kilogram" },
+          "repCount": 3,
+          "setType": "Working",
+          "rpe": "8.5",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.40 },
+            { "meanConcentricVelocity": 0.36 },
+            { "meanConcentricVelocity": 0.31 }
+          ]
+        },
+        {
+          "id": "set-4",
+          "weight": { "value": 110.0, "unit": "kilogram" },
+          "repCount": 1,
+          "setType": "Top",
+          "rpe": "9.5",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.22 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-2024-04-28",
+      "date": "2024-04-28T07:15:00Z",
+      "tags": ["Touch and Go"],
+      "sets": [
+        {
+          "id": "set-5",
+          "weight": { "value": 60.0, "unit": "kilogram" },
+          "repCount": 5,
+          "setType": "Warmup",
+          "rpe": "5",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.74 },
+            { "meanConcentricVelocity": 0.73 },
+            { "meanConcentricVelocity": 0.70 }
+          ]
+        },
+        {
+          "id": "set-6",
+          "weight": { "value": 95.0, "unit": "kilogram" },
+          "repCount": 5,
+          "setType": "Working",
+          "rpe": "7.5",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.48 },
+            { "meanConcentricVelocity": 0.45 },
+            { "meanConcentricVelocity": 0.43 },
+            { "meanConcentricVelocity": 0.41 },
+            { "meanConcentricVelocity": 0.38 }
+          ]
+        },
+        {
+          "id": "set-7",
+          "weight": { "value": 95.0, "unit": "kilogram" },
+          "repCount": 5,
+          "setType": "Working",
+          "rpe": "8",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.46 },
+            { "meanConcentricVelocity": 0.42 },
+            { "meanConcentricVelocity": 0.40 },
+            { "meanConcentricVelocity": 0.37 },
+            { "meanConcentricVelocity": 0.33 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-2024-04-21",
+      "date": "2024-04-21T19:05:00Z",
+      "tags": ["Competition"],
+      "sets": [
+        {
+          "id": "set-8",
+          "weight": { "value": 102.5, "unit": "kilogram" },
+          "repCount": 2,
+          "setType": "Working",
+          "rpe": "9",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.38 },
+            { "meanConcentricVelocity": 0.30 }
+          ]
+        },
+        {
+          "id": "set-9",
+          "weight": { "value": 112.5, "unit": "kilogram" },
+          "repCount": 1,
+          "setType": "Top",
+          "rpe": "10",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.18 }
+          ]
+        },
+        {
+          "id": "set-10",
+          "weight": null,
+          "repCount": null,
+          "setType": null,
+          "rpe": null,
+          "repetitions": []
+        }
+      ]
+    },
+    {
+      "id": "s-2024-04-14",
+      "date": "2024-04-14T17:30:00Z",
+      "tags": [],
+      "sets": [
+        {
+          "id": "set-11",
+          "weight": { "value": 50.0, "unit": "kilogram" },
+          "repCount": 8,
+          "setType": "Warmup",
+          "rpe": "4",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.82 },
+            { "meanConcentricVelocity": 0.80 },
+            { "meanConcentricVelocity": 0.78 }
+          ]
+        },
+        {
+          "id": "set-12",
+          "weight": { "value": 90.0, "unit": "kilogram" },
+          "repCount": 6,
+          "setType": "Working",
+          "rpe": "7",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.52 },
+            { "meanConcentricVelocity": 0.49 },
+            { "meanConcentricVelocity": 0.47 },
+            { "meanConcentricVelocity": 0.44 },
+            { "meanConcentricVelocity": 0.42 },
+            { "meanConcentricVelocity": 0.39 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-2024-04-07",
+      "date": "2024-04-07T08:00:00Z",
+      "tags": ["Paused"],
+      "sets": [
+        {
+          "id": "set-13",
+          "weight": { "value": 220.0, "unit": "pound" },
+          "repCount": 3,
+          "setType": "Working",
+          "rpe": "8",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.41 },
+            { "meanConcentricVelocity": 0.38 },
+            { "meanConcentricVelocity": 0.34 }
+          ]
+        },
+        {
+          "id": "set-14",
+          "weight": { "value": 245.0, "unit": "pound" },
+          "repCount": 1,
+          "setType": "Top",
+          "rpe": "9",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.25 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-2024-03-31",
+      "date": "2024-03-31T18:20:00Z",
+      "tags": ["Competition", "Touch and Go"],
+      "sets": [
+        {
+          "id": "set-15",
+          "weight": { "value": 100.0, "unit": "kilogram" },
+          "repCount": 3,
+          "setType": "Working",
+          "rpe": "8",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.44 },
+            { "meanConcentricVelocity": 0.40 },
+            { "meanConcentricVelocity": 0.37 }
+          ]
+        },
+        {
+          "id": "set-16",
+          "weight": { "value": 100.0, "unit": "kilogram" },
+          "repCount": 3,
+          "setType": "Working",
+          "rpe": "8.5",
+          "repetitions": [
+            { "meanConcentricVelocity": 0.43 },
+            { "meanConcentricVelocity": 0.38 },
+            { "meanConcentricVelocity": 0.34 }
+          ]
+        }
+      ]
+    }
+  ]
+}
